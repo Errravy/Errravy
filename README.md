@@ -6,7 +6,6 @@ I am a Unity programmer with over two years experience. My focus and expertise r
 
 Skills: CPP / C# / Java
 
-- 🔭 I’m currently working on this page. 
 
 
 
